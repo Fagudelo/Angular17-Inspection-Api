@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { Observable } from 'rxjs';
 import { InspectionApiService } from '../../inspection-api.service';
+// Test comment
 
 @Component({
   selector: 'app-show-inspection',
